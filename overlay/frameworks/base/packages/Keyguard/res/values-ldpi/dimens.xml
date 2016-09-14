@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* //device/apps/common/assets/res/any/dimens.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources>
+    <dimen name="keyguard_lockscreen_outerring_diameter">240dp</dimen>
+    <dimen name="glowpadcontainer_bottom_margin">-35dp</dimen>
+    <dimen name="glowpadview_target_placement_radius">120dp</dimen>
+    <dimen name="glowpadview_glow_radius">65dp</dimen>
+    <dimen name="glowpadview_snap_margin">30dp</dimen>
+    <dimen name="glowpadview_inner_radius">12dp</dimen>
+    <dimen name="keyguard_lockscreen_status_line_font_size">11dip</dimen>
+    <dimen name="keyguard_lockscreen_status_line_clockfont_top_margin">1dip</dimen>
+    <dimen name="keyguard_lockscreen_status_line_clockfont_bottom_margin">1dip</dimen>
+    <dimen name="kg_security_view_height">333dp</dimen>
+    <dimen name="kg_status_clock_font_size">40dp</dimen>
+    <dimen name="kg_status_line_font_size">11dp</dimen>
+    <dimen name="kg_key_horizontal_gap">1dp</dimen>
+    <dimen name="kg_key_vertical_gap">2dp</dimen>
+    <dimen name="keyguard_security_height">240dp</dimen>
+    <dimen name="keyguard_security_view_margin">4dp</dimen>
+    <dimen name="keyguard_muliuser_selector_margin">4dp</dimen>
+    <dimen name="kg_small_widget_height">150dp</dimen>
+    <dimen name="bottom_text_spacing_digital">-8dp</dimen>
+    <dimen name="label_font_size">12dp</dimen>
+    <dimen name="widget_label_font_size">11dp</dimen>
+    <dimen name="widget_big_font_size">40dp</dimen>
+    <dimen name="big_font_size">60dp</dimen>
+</resources>
